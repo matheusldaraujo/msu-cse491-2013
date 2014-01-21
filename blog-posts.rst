@@ -38,9 +38,9 @@ Class days
 - [ ] 5. 1/21
 - [ ] 6. 1/23
 - [ ] 7. 1/28
-- [ ] 8. 1/30
+- [ araujoma ] 8. 1/30
 - [ ] 9. 2/4
-- [ ] 10. 2/6
+- [ araujoma ] 10. 2/6
 - [ ] 11. 2/11
 - [ leflerja ] 12. 2/13 - Rich Enbody speaks on security
 - [ ] 13. 2/18
